@@ -105,7 +105,7 @@ class WasteCNN(nn.Module):
 # ============================================================
 
 with open(
-    "C:\ML PROJECTS\P4-DEEP LEARNING\CNN Image Classification\class_names.json",
+    "class_names.json",
     "r"
 ) as f:
 
