@@ -1,5 +1,7 @@
 # ♻️ Waste Classification CNN
+## 🌐 Live Demo
 
+[🚗 Car Price Prediction App](https://car-price-ml.streamlit.app/)
 A deep learning image classification project that classifies waste images using a Convolutional Neural Network built with PyTorch.
 
 ## 🚀 Project Overview
